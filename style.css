@@ -14,6 +14,10 @@ body {
 .superhero,
 .super-villans {
     width: 600;
+}
+
+.heros,
+.villans {
     transition: 5s
 }
 
@@ -22,6 +26,7 @@ body {
     height: 400px;
     cursor: pointer;
 }
+
 
 #result-text {
     font-size: 100px;
