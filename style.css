@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+.superhero-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#vs {
+    height: 130px;
+}
+
+.superhero,
+.super-villans {
+    width: 600;
+    transition: 5s
+}
+
+.heros,
+.villans {
+    height: 400px;
+    cursor: pointer;
+}
+
+#result-text {
+    font-size: 100px;
+}
